@@ -1,0 +1,21 @@
+.container {
+    margin: 50px 0;
+}
+
+.card {
+    margin: 0 2% !important;
+}
+
+.besmettingen {
+    border-bottom: 10px solid #212121;
+}
+
+
+.hersteld {
+    border-bottom: 10px solid green;
+}
+
+
+.sterfgevallen {
+    border-bottom: 10px solid red;
+}
