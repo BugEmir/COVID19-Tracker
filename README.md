@@ -1,4 +1,4 @@
-# COVID19-Tracker
+# COVID19-Tracker | Emirhan Sarikaya
 Simple COVID19 Tracker made in ReactJS using Hooks, Material-UI, JSX ect
 
 ![COVID19Track](https://media3.giphy.com/media/9kqBguWqn7EEtxxslQ/giphy.gif)
