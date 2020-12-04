@@ -11,7 +11,7 @@ Made with love using ReactJS + React-Redux + React-CodeUp <br>
 Frontend: @material-ui/core / @babel/core <br>
 Also mobile/tablet/desktop responsive using react-cx :grinning:
 
-#@ Real-time data (24/7)
+# Real-time data (24/7)
 Fetching real-time data using API of https://github.com/mathdroid/covid-19-api
 Huge thanks to mathdroid for making this possible :innocent:
 
