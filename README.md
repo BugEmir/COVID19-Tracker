@@ -9,6 +9,7 @@ Simple COVID19 Tracker made in ReactJS using Hooks, Material-UI, JSX ect
 ## Covid19 Tracker 1.0 <br>
 Made with love using ReactJS + React-Redux + React-CodeUp <br>
 Frontend: @material-ui/core / @babel/core <br>
+Also mobile/tablet/desktop responsive using react-cx :grinning:
 
 #@ Real-time data (24/7)
 Fetching real-time data using API of https://github.com/mathdroid/covid-19-api
